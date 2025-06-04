@@ -1,4 +1,4 @@
-let name = "160140";
+let name = "16014";
 
 console.log(typeof name);
 
