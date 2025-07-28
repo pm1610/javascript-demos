@@ -11,4 +11,4 @@ console.log("1" + 2 + 3);
 console.log(1 + 2 + "3");
 console.log(1 + "2" + 3);
 
-//In this case converssion become on the basis of first value will be string or number. 
+// In this case converssion become on the basis of first value will be string or number
