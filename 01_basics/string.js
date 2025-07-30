@@ -7,7 +7,7 @@ const repoCount = 909;
 // Modern Method (String interpolation)
 //console.log(`May Name Is ${name} and my repo count is ${repoCount}.`);
 
-const gameName= new String("Parth Mistrya"); // Sec. Metod to declare string (Here string is an object) ==> Rin directly in console of browser 
+const gameName= new String("Parth Mistry"); // Sec. Metod to declare string (Here string is an object) ==> Rin directly in console of browser 
 //then you can find object of string and Prototype and all methods of string.
 
 console.log(gameName[0]);
