@@ -19,10 +19,10 @@
 let name = "Parth"; // string
 let age = 34 // Number
 let logedin = true // Boolean
-let companyName; // Undefined
+let companyName // Undefined
 let nullValue = null; // Null   // The datatype of null is "Object"
 
-const id = Symbol("123"); // Symbol
+const id = Symbol("123"); // Symbol  For just unique identifier
 const anotherid = Symbol("123"); // Symbol
 const bignumber = 1234567896545464666565n;
 
